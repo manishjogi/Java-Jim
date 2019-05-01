@@ -5,6 +5,7 @@ public class HelloJava {
             Sum s=new Sum();
             int a=10,b=20;
             s.sum(a,b);
+            System.out.println("Hello Java");
 
         }
     }
